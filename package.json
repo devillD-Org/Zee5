@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "description": "The Ultimate Zee5 Player using Cloudflare Worker",
     "main": "worker.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/cachecleanerjeet/Zee5.git"
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node worker.js",
     },
     "keywords": [
         "zee5"
